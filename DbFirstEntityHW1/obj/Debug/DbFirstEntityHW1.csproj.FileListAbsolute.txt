@@ -1,0 +1,17 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\DbFirstEntityHW1.exe.config
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.Add.resources
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.Form1.resources
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.Properties.Resources.resources
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.csproj.GenerateResource.Cache
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\DbFirstEntityHW1.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\DbFirstEntityHW1.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\EntityFramework.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\EntityFramework.xml
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\Database1.mdf
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\bin\Debug\Database1_log.ldf
+C:\Users\Kateryna\Documents\Programming\Programming\Homework\ADONET\DbFirstEntityHW1\DbFirstEntityHW1\obj\Debug\DbFirstEntityHW1.Remove.resources
